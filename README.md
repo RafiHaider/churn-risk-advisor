@@ -1,6 +1,6 @@
 # 📉 Customer Churn Risk Advisor
 
-An interactive decision-support application built with **Streamlit** and **XGBoost** to predict customer churn probability, assign risk bands, and provide prescriptive retention strategies for telco operators[cite: 1, 2, 3].
+An interactive decision-support application built with **Streamlit** and **XGBoost** to predict customer churn probability, assign risk bands, and provide prescriptive retention strategies for telco operators.
 
 ---
 
