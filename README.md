@@ -15,8 +15,17 @@ An interactive decision-support application built with **Streamlit** and **XGBoo
 The **Churn Risk Advisor** bridges the gap between raw machine learning output and real-world business intervention. Key capabilities include:
 
 * **Real-time Individual Scoring:** Input specific customer attributes via a sidebar form to instantaneously generate a churn probability score, assigned risk band (LOW / MEDIUM / HIGH), and recommended outreach action.
+  
+*<img width="953" height="502" alt="Screenshot 2026-10-09 092359(1)" src="https://github.com/user-attachments/assets/be696a4d-f43f-4899-93be-09b6005c8f12" />*
+
 * **Prescriptive Counterfactual Analysis:** Dynamic *"What would change the risk?"* feature computes probability deltas for potential contract and service upgrades.
+
 * **Batch Scoring & Export:** Drag and drop CSV customer data to process batch predictions, highlight high-risk accounts above a customizable threshold, and export scored reports.
+
+  *<img width="944" height="477" alt="Screenshot 2026-10-09 093234" src="https://github.com/user-attachments/assets/7f012787-1a2c-46b2-a92b-f0602a577a19" />
+*
+*<img width="941" height="478" alt="Screenshot 2026-10-09 103725" src="https://github.com/user-attachments/assets/ae70db98-290f-432d-ac40-57570583fe9b" />
+*
 * **Explainable AI (XAI):** Feature contribution breakdowns showing key factors driving risk up or down.
 
 ---
@@ -39,3 +48,5 @@ churn-risk-advisor/
 ├── requirements.txt         # Pinned Python dependencies for cloud execution
 ├── sample_customers.csv     # Sample batch dataset for testing
 └── README.md                # Project documentation
+
+
