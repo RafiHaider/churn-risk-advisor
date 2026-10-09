@@ -21,6 +21,11 @@ An interactive decision-support application built with **Streamlit** and **XGBoo
 ## 🚀 Live Application & Repository
 - **Live Web App:** [Customer Churn Risk Advisor on Streamlit Cloud](https://churn-risk-advisor-td2kkqsa9zbfrf8scabsbk.streamlit.app/) 
 - **GitHub Repository:** [RafiHaider/churn-risk-advisor](https://github.com/RafiHaider/churn-risk-advisor)
+  
+## 📚 Notebook References
+- **Week 1 (EDA & Data Prep):** [1st Week Customer Churn EDA](https://www.kaggle.com/code/rafihaider/1st-week-customer-churn-eda)
+- **Week 2 (Model Building):** [Week 2 Building, Evaluating, and Interpreting ML](https://www.kaggle.com/code/rafihaider/week-2-building-evaluating-and-interpreting-ml)
+- **Week 3 (Optimization):** [Week 3 Model Optimization and Unsupervised Learning](https://www.kaggle.com/code/rafihaider/week-3-model-optimization-and-unsupervised-learn)
 
 ---
 
