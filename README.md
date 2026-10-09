@@ -76,3 +76,9 @@ pip install -r requirements.txt
 # 4. Launch the Streamlit application
 streamlit run app.py
 
+## 📚 Notebook References
+
+* **Development Notebooks (Weeks 1 to 3):** [Kaggle Model Training & Evaluation Pipeline]
+(https://www.kaggle.com/code/rafihaider/1st-week-customer-churn-eda/edit)
+(https://www.kaggle.com/code/rafihaider/week-2-building-evaluating-and-interpreting-ml/edit)
+(https://www.kaggle.com/code/rafihaider/week-3-model-optimization-and-unsupervised-learn/edit)
